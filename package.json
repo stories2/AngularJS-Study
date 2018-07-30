@@ -1,0 +1,23 @@
+{
+  "name": "angular-js-study",
+  "version": "1.0.0",
+  "description": "Study angular js",
+  "main": "index.js",
+  "dependencies": {
+    "angular": "^1.7.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stories2/AngularJS-Study.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stories2/AngularJS-Study/issues"
+  },
+  "homepage": "https://github.com/stories2/AngularJS-Study#readme"
+}
